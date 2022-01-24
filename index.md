@@ -37,7 +37,7 @@ Je me nomme KENZO BOREL Loic, je suis Ingénieur de conception de Géniel ayant 
 * **2010-2011** : GCE-OL avec 27 points (Sacred Heart College DOUALA)
 
 ## EXPERIENCE AU POSTE D'INGENIEUR DE SUIVIE DANS LE DOMAINE DE LA GEOTECHNIQUE ET LA MAITRISE D'OEUVRE COMPLETE
-**Date de début de mission : ** 18/10/2021    **Date de fin de mission  : ** En cours
+**Date-de-début-de-mission** : 18/10/2021    **Date-de-fin-de-mission** : En cours
 * **Entreprise** : TCHYCHLOF Sarl
 * **Nom, lieu du projet** : Marché N° 20/M/CUY/CIPM/2021. Travaux de réhabilitation des trotoirs et des aménagements divers du tronçon riviere Anga'a carrefour rond-point Acropole
 * **Nature des travaux** : Travaux de réhabilitation de la chaussée y compris drain et trottoir sur 15.6 Km.
