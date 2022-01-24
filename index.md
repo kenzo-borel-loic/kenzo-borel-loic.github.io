@@ -17,8 +17,8 @@ Je me nomme KENZO BOREL Loic, je suis Ingénieur de conception de Géniel ayant 
 * **Attribution spécifiques** : Ingénieur de Conception de Génie Civil
 * **Téléphone** : (+237) 691 33 33 91 / 699 41 89 98
 * **E-mail** : kenzo.borelloic@gmail.com
-* **Numéro ONIGC** : ##20-2698
-* **Numéro CNPS** : ##TIA24112168669
+* **Numéro ONIGC** : **20-2698**
+* **Numéro CNPS** : **TIA24112168669**
 
 ## Principales qualifications
 * Entrepreneur et co-fondateur de K.I.D Sarl (Kirabuild Ingenieurie design) occupant le poste de directeur technique/Par ailleur ingénieur de suivie chez ACE Sarl.
@@ -37,16 +37,11 @@ Je me nomme KENZO BOREL Loic, je suis Ingénieur de conception de Géniel ayant 
 * **2010-2011** : GCE-OL avec 27 points (Sacred Heart College DOUALA)
 
 ## EXPERIENCE AU POSTE D'INGENIEUR DE SUIVIE DANS LE DOMAINE DE LA GEOTECHNIQUE ET LA MAITRISE D'OEUVRE COMPLETE
-**2021**
+**Date de début de mission : ** 18/10/2021    **Date de fin de mission  : ** En cours
 * **Entreprise** : TCHYCHLOF Sarl
 * **Nom, lieu du projet** : Marché N° 20/M/CUY/CIPM/2021. Travaux de réhabilitation des trotoirs et des aménagements divers du tronçon riviere Anga'a carrefour rond-point Acropole
 * **Nature des travaux** : Travaux de réhabilitation de la chaussée y compris drain et trottoir sur 15.6 Km.
 * **Maître d'ouvrage** : C.U.Y
 * **Titre** : Ingéneur de Suivi principale/Conducteur de travaux par intérim
 
-## Formation
-* **Février à Mai 2021** : Formation sur le PEV au CS Marc Vivien Foe 
-*  **Du 13/9/20 au 13/02/21** : Stage pré-emploi en médecine au Centre de Santé Ste Elisabeth.
 
-## Expérienc Profesionnelle
-*  **2021**: Employée au Centre de Santé Sainte Elisabeth.
